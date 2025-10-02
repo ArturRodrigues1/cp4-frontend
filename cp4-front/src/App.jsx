@@ -10,7 +10,7 @@ function App() {
       <Header/>
 
 
-    <section className='grid grid-cols-4 px-30 py-20 gap-5 '>
+    <section className='grid grid-cols-1 md:grid-cols-4 px-5 md:px-30 py-20 gap-5 '>
       <Card />
       <Card />
       <Card />
